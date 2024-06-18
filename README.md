@@ -19,7 +19,7 @@ This project is a responsive e-commerce website created using HTML and CSS. It f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-website.git
+   git clone https://github.com/KamilErdogmus/E-commerce.git
    ```
 2. Open the index.html file in your browser to view the website.
 
